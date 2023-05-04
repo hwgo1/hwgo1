@@ -25,4 +25,4 @@ const hwgo = {
 };
 ```
 
-![Snake animation](https://github.com/hwgo1)
+![snake gif](https://github.com/hwgo1/hwgo1/blob/output/github-contribution-grid-snake.svg)
