@@ -1,12 +1,18 @@
-<h2>Olá!</h2>
-<img align='center' src="https://64.media.tumblr.com/fad698de81abf1f122ea815789e2d757/1ed9c10b867a1f1f-ca/s500x750/7ecc332ca2e0b210140d8f4b1ccfed85b0f7efb2.gifv" width="230">
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
+<h2>Olá! Eu sou o Hugo!</h2>
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hwgo1&show_icons=true&theme=radical">
+
+
+<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
+
+### <img src="https://media.tenor.com/OuXSx69H1ZYAAAAi/omori-omori-meme.gif" width="40"> Um pouco sobre mim...  
 
 ```javascript
 const hwgo = {
     pronomes: "Ele" | "Dele",
     code: ["Javascript", "C", "Java"],
-    mePergunteSobre: ["tecnlogia", "audiovisual", "jogos"],
+    mePergunteSobre: ["tecnologia", "audiovisual", "anime"],
     tecnologias: {
         backEnd: {
             js: ["Node"],
@@ -18,3 +24,5 @@ const hwgo = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
+![Snake animation](https://github.com/hwgo1)
