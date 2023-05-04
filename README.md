@@ -33,4 +33,6 @@ const hwgo = {
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hwgo1&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwgo1&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwgo1">
+
+
