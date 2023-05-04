@@ -17,7 +17,7 @@ const hwgo = {
     pronomes: "Ele" | "Dele",
     ocupação: "Estudante",
     code: ["Javascript", "C", "Java"],
-    mePergunteSobre: ["tecnologia", "audiovisual", "anime"],
+    mePergunteSobre: ["tecnologia", "audiovisual", "jogos"],
     tecnologias: {
         backEnd: {
             js: ["Node"],
