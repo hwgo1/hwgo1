@@ -1,8 +1,7 @@
 <h2>Olá! Eu sou o Hugo!</h2>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hwgo1&show_icons=true&theme=radical">
-
+<img src="https://github-readme-stats.vercel.app/api?username=hwgo1&show_icons=true&theme=radical">
 
 <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
 
@@ -11,6 +10,7 @@
 ```javascript
 const hwgo = {
     pronomes: "Ele" | "Dele",
+    ocupação: "Estudante",
     code: ["Javascript", "C", "Java"],
     mePergunteSobre: ["tecnologia", "audiovisual", "anime"],
     tecnologias: {
@@ -21,7 +21,7 @@ const hwgo = {
         databases: ["MySql"],
     },
     focoAtual: "devOps e back-end",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "Existem duas formas de criar um programa sem bugs; Só a terceira funciona."
 };
 ```
 
