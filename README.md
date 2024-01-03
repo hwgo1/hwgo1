@@ -19,8 +19,10 @@ const hwgo = {
     code: ["Javascript", "C", "Java"],
     mePergunteSobre: ["tecnologia", "audiovisual", "jogos"],
     tecnologias: {
-        backEnd: {
-            js: ["Node"],
+        frontEnd: {
+            react,
+            tailwind,
+            nodeJS
         },
         devOps: ["Segurança Ofensiva"],
         databases: ["MySql"],
