@@ -21,13 +21,13 @@ const hwgo = {
     tecnologias: {
         frontEnd: {
             react,
+            angular,
             tailwind,
             nodeJS
         },
-        devOps: ["Segurança Ofensiva"],
-        databases: ["MySql"],
+        databases: ["MySql, MongoDB"],
     },
-    focoAtual: "devOps e back-end",
+    focoAtual: "React, NodeJS e MongoDB",
     funFact: "Existem duas formas de criar um programa sem bugs; Só a terceira funciona."
 };
 ```
