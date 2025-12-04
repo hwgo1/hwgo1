@@ -29,7 +29,7 @@ const hwgo = {
     },
     currentFocus: "Backend APIs | Cybersecurity | LLM/ML",
     interestedIn: ["Pentesting", "Reverse Engineering", "ML/LLM", "Low-level Programming"],
-    hobbies: ["RPG", "Soulslike", "Survival Horror", "Anime/Manga"],
+    hobbies: ["RPG", "Soulslike", "Survival Horror", "Make my wife happy"],
     funFact: "There are 10 types of people: those who understand binary and those who don't."
 };
 ```
