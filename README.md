@@ -1,40 +1,41 @@
-<h2>Olá! Eu sou o Hugo!</h2>
-
+<h2>Hello! I'm Hugo!</h2>
 <div>
-<img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </div>
 
-
-
-### <img src="https://media.tenor.com/OuXSx69H1ZYAAAAi/omori-omori-meme.gif" width="40"> Um pouco sobre mim...  
-
+### <img src="https://media.tenor.com/OuXSx69H1ZYAAAAi/omori-omori-meme.gif" width="40"> A little about me...  
 ```javascript
 const hwgo = {
-    pronomes: "Ele" | "Dele",
-    ocupação: "Estudante",
-    code: ["Javascript", "C", "Java"],
-    mePergunteSobre: ["tecnologia", "audiovisual", "jogos"],
-    tecnologias: {
-        frontEnd: {
-            react,
-            angular,
-            tailwind,
-            nodeJS
+    languages: ["PT", "EN"],
+    occupation: "FullStack Developer & Aspiring Cybersecurity Specialist",
+    code: ["Python", "TypeScript", "C"],
+    askMeAbout: ["backend", "cybersecurity", "pentest", "webdev"],
+    technologies: {
+        backEnd: {
+            python: ["FastAPI", "Flask", "Peewee"],
+            nodeJS: ["Express", "Fastify", "TypeScript"],
+            databases: ["PostgreSQL", "MongoDB", "SQLite"]
         },
-        databases: ["MySql, MongoDB"],
+        frontEnd: {
+            react: ["Next.js", "TypeScript"],
+            styling: ["TailwindCSS", "Material-UI"]
+        },
+        cloud: ["AWS"]
     },
-    focoAtual: "React, NodeJS e MongoDB",
-    funFact: "Existem duas formas de criar um programa sem bugs; Só a terceira funciona."
+    currentFocus: "Backend APIs | Cybersecurity | LLM/ML",
+    interestedIn: ["Pentesting", "Reverse Engineering", "ML/LLM", "Low-level Programming"],
+    hobbies: ["RPG", "Soulslike", "Survival Horror", "Anime/Manga"],
+    funFact: "There are 10 types of people: those who understand binary and those who don't."
 };
 ```
 
+---
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hwgo1&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwgo1">
-
-
+<div align="center">
+  <i>"Talent is something you make bloom. Instinct is something you polish."</i>
+</div>
